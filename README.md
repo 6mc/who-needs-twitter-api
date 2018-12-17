@@ -1,7 +1,5 @@
 # who-needs-twitter-api
 an 'alternative' way to automate sending tweets
-# who-needs-twitter-api
-an 'alternative' way to automate sending tweets
 (completely automated)
  ![alt text](https://github.com/mcanwoo/who-needs-twitter-api/blob/master/stat.gif?raw=true "sends it")
 
